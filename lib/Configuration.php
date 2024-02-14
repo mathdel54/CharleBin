@@ -63,6 +63,7 @@ class Configuration
             'default' => '1day',
         ),
         'expire_options' => array(
+            '1min'   => 60,
             '5min'   => 300,
             '10min'  => 600,
             '1hour'  => 3600,
